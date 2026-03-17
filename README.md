@@ -12,7 +12,7 @@
 
 # 🧑‍💻 About Me
 
-- 🌱 Currently learning **Backend / AI / DevOps**
+- 🌱 Currently learning **Backend / Frontend**
 - 🔭 Working on **Cool Projects**
 - 💬 Ask me about **Python, Java, Web**
 - ⚡ Fun fact: **I debug with print()**
@@ -63,4 +63,4 @@
 
 ---
 
-⭐️ From [YOUR_ID](https://github.com/YOUR_ID)
+⭐️ From [developr-kes](https://github.com/developr-kes)
