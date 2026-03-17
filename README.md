@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Developer
 
 🚀 Full Stack Developer  
-⚡ Building Web / App / Cloud Projects  
+⚡ Building Web / App / Cloud Projects
 
 </div>
 
@@ -60,11 +60,11 @@
 
 # 🧩 Featured Projects
 
-| Project | Description | Tech |
-|------|-------------|------|
-| 🚀 Project 1 | Awesome web app | Next.js / Node |
+| Project      | Description        | Tech            |
+| ------------ | ------------------ | --------------- |
+| 🚀 Project 1 | Awesome web app    | Next.js / Node  |
 | 🔥 Project 2 | Full stack service | React / MongoDB |
-| ⚡ Project 3 | Real-time app | Firebase |
+| ⚡ Project 3 | Real-time app      | Firebase        |
 
 ---
 
@@ -76,7 +76,7 @@
 
 # 📫 Contact
 
-- 🌐 Portfolio: https://wait.com
+- 🌐 Portfolio: https://naver.com
 - 📧 Email: developerrdt@email.com
 
 ---
