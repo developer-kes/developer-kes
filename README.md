@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Developer
+# 👋 Hello, I'm EUN SUNG
 
 🚀 Full Stack Developer  
 ⚡ Building Web / App / Cloud Projects
