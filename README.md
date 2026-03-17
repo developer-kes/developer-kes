@@ -1,38 +1,46 @@
-<h1 align="center">🔥 Hi there 👋 I'm EUN SUNG</h1>
+<div align="center">
 
-<p align="center">
-  💻 Developer | 🚀 Tech Lover | 🌏 Open Source
-</p>
+# 👋 Hello, I'm Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_ID&color=blueviolet">
-</p>
+🚀 Full Stack Developer  
+⚡ Building Web / App / Cloud Projects  
 
----
-
-# 🧑‍💻 About Me
-
-- 🌱 Currently learning **Backend / Frontend**
-- 🔭 Working on **Cool Projects**
-- 💬 Ask me about **Python, Java, Web**
-- ⚡ Fun fact: **I debug with print()**
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# 🧠 About Me
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+- 💻 Full Stack Developer
+- 🚀 Passionate about Web Development
+- 🌱 Always learning new technologies
+- ⚡ Love building scalable applications
 
-### ⚙️ Backend
-![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+---
 
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+# 🛠 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ---
 
@@ -50,17 +58,31 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🧩 Featured Projects
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_ID&theme=onedark)
+| Project | Description | Tech |
+|------|-------------|------|
+| 🚀 Project 1 | Awesome web app | Next.js / Node |
+| 🔥 Project 2 | Full stack service | React / MongoDB |
+| ⚡ Project 3 | Real-time app | Firebase |
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/developer-kes/developer-kes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 📫 Contact
 
-- ✉ Email: developerrdt@email.com
-- 🌐 Blog: https://test.com
+- 🌐 Portfolio: https://wait.com
+- 📧 Email: developerrdt@email.com
 
 ---
 
-⭐️ From [developr-kes](https://github.com/developr-kes)
+<div align="center">
+
+⭐ From [developer-kes](https://github.com/developer-kes)
+
+</div>
