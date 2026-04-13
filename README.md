@@ -54,7 +54,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & Collaboration</b></summary>
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
