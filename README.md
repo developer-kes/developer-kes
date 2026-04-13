@@ -77,13 +77,6 @@
 
 ---
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://github.com/developer-kes/developer-kes/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ### 📫 Contact & More
 <p align="center">
   <a href="mailto:developerrdt@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
