@@ -14,10 +14,9 @@
 
 ### 🧭 Currently
 
-- 🔭 개인 프로젝트 **Tourch** 리팩토링 진행 중 — 코드 구조 개선과 성능 최적화
-- 🌱 **Spring / MyBatis** 기반 백엔드 역량을 심화 학습 중
-- 🎯 프론트엔드·백엔드 포지션 모두 지원 중 — 화면부터 데이터까지 서비스 전체 흐름을 이해하는 개발자를 목표로 하고 있습니다
-- 🛠️ **SQLD** 자격 보유, 근거 있는 데이터 설계를 지향합니다
+- 🔭 코드 구조 개선과 성능 최적화
+- 🎯 화면부터 데이터까지 서비스 전체 흐름을 이해하는 개발자를 목표로 하고 있습니다
+- 🛠️ 근거 있는 데이터 설계를 지향합니다
 
 <br>
 
@@ -115,10 +114,6 @@ KB IT's Your Life 풀스택 부트캠프 팀 프로젝트 (6인)
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-kes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="EunSung's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-kes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=developer-kes&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
