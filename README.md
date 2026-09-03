@@ -74,7 +74,7 @@
 
 `Java` `Spring Boot` `JPA` `MySQL` `Next.js` `TypeScript` `TanStack Query`
 
-[🔗 배포](https://pt-reservation-frontend.vercel.app/) · [💻 프론트 저장소](https://github.com/PT-reservation/pt-reservation-frontend) · [💻 백엔드 저장소](https://github.com/PT-reservation/pt-reservation-backend)
+[🔗 배포](https://pt-reservation-frontend.vercel.app/) · [💻 프론트 저장소](https://github.com/PT-reservation/pt-reservation-frontend)
 
 </td>
 <td width="33%" valign="top">
