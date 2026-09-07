@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45A1FF,100:6DB33F&height=180&section=header&text=EUN%20SUNG&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Rooted%20Developer%2C%20Building%20Full-Stack%20Range&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=45A1FF&center=true&vCenter=true&width=460&lines=Frontend+%7C+React+%2F+Next.js+%2F+Vue;Backend+%7C+Java+%2F+Spring+%2F+MySQL;Building+End-to-End+Web+Services;Currently+Growing+Backend+Depth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=45A1FF&center=true&vCenter=true&width=460&lines=Frontend+%7C+React+%2F+Next.js+%2F+Vue;Backend+%7C+Java+%2F+Spring+%2F+MySQL;Building+End-to-End+Web+Services;Handling+Real+Concurrency+%26+Deadlock+Issues)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Main_Tech-Next.js_%26_Spring-45A1FF?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -14,9 +14,9 @@
 
 ### 🧭 Currently
 
-- 🔭 코드 구조 개선과 성능 최적화
-- 🎯 화면부터 데이터까지 서비스 전체 흐름을 이해하는 개발자를 목표로 하고 있습니다
-- 🛠️ 근거 있는 데이터 설계를 지향합니다
+- 🎯 **프론트엔드·백엔드 포지션 모두 지원 중** — 화면부터 데이터까지 서비스 전체 흐름을 이해하는 개발자를 목표로 하고 있습니다
+- 🔭 개인 프로젝트 코드 구조 개선과 성능 최적화 진행
+- 🛠️ **SQLD** 자격 보유, 근거 있는 데이터 설계를 지향합니다
 
 <br>
 
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
 
@@ -37,10 +38,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security_%2F_JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
@@ -50,9 +51,9 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
 <br>
@@ -74,7 +75,7 @@
 
 `Java` `Spring Boot` `JPA` `MySQL` `Next.js` `TypeScript` `TanStack Query`
 
-[🔗 배포](https://pt-reservation-frontend.vercel.app/) · [💻 프론트 저장소](https://github.com/PT-reservation/pt-reservation-frontend)
+[🔗 배포](https://pt-reservation-frontend.vercel.app/) · [💻 프론트 저장소](https://github.com/PT-reservation/pt-reservation-frontend) · [💻 백엔드 저장소](https://github.com/PT-reservation/pt-reservation-backend)
 
 </td>
 <td width="33%" valign="top">
@@ -104,7 +105,7 @@ KB IT's Your Life 풀스택 부트캠프 팀 프로젝트 (6인)
 
 `Vue3` `Pinia` `Spring Legacy` `MyBatis` `MySQL`
 
-[🔗 배포](https://avocado-kb.vercel.app/) · [💻 백엔드 저장소](https://github.com/kb-avocado/avocado-backend)
+[💻 프론트 저장소](https://github.com/kb-avocado/avocado-frontend) · [💻 백엔드 저장소](https://github.com/kb-avocado/avocado-backend)
 
 </td>
 </tr>
